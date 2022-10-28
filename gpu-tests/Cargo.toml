@@ -17,7 +17,7 @@ criterion = "0.3.6"
 ec-gpu = "0.2"
 ec-gpu-gen = { path = "../ec-gpu-gen", default-features = false }
 ff = { version = "0.12.0", default-features = false }
-fil_logger = "0.1.6"
+#fil_logger = "0.1.6"
 group = "0.12.0"
 pairing = "0.22.0"
 rand = "0.8"
